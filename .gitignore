@@ -1,0 +1,25 @@
+/__pycache__
+*.log
+*.key
+/keys
+
+# Ignore audio and video files
+*.mp3
+*.wav
+*.aac
+*.flac
+*.ogg
+*.wma
+*.alac
+*.aiff
+*.aif
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.flv
+*.mpeg
+*.mpg
+*.webm
+*.3gp
